@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Ürün İnceleme";
+    Layout = "_Layout";
+}
+
+<section style="padding: 60px; max-width: 1000px; margin: auto;">
+    <h2 style="color: #5a2a83; text-align: center; margin-bottom: 40px;">Ürün İçerik Analizi</h2>
+
+    <form asp-action="UrunInceleme" method="post" enctype="multipart/form-data" style="text-align: center;">
+        <input type="file" name="file" required
+               style="padding: 12px; border: 1px solid #ccc; border-radius: 8px;" />
+        <button type="submit" style="
+            margin-left: 20px;
+            background: #9c4dcc;
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+        ">
+            Yükle ve Analiz Et
+        </button>
+    </form>
+
+    @if (ViewBag.Result != null)
+    {
+        <div style="margin-top:20px; font-weight:bold; color:#5a2a83; text-align:center;">
+            <p>@ViewBag.Result</p>
+        </div>
+    }
+</section>

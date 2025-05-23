@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "Makaleler";
+    Layout = "_Layout";
+}
+<section style="padding: 60px 0; max-width: 1200px; margin: 0 auto;">
+
+    <h2 style="color: #5a2a83;">Cilt Sağlığına Dair Makaleler</h2>
+    <div id="makaleListesi" style="
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+    margin: 40px;
+">
+    </div>
+</section>
+
+<script>
+    fetch('/api/makale')
+        .then(res => res.json())
+        .then(data => {
+            const container = document.getElementById("makaleListesi");
+            data.forEach(makale => {
+                const card = document.createElement('div');
+                    card.className = 'article-card';
+    card.innerHTML = `
+        <div style="
+             background: linear-gradient(135deg, #ffe0f0, #e0f0ff);
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            min-height: 330px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            transition: transform 0.2s ease;
+        " onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
+                        <h3 style="color: #5a2a83; font-size: 18px; margin-bottom: 10px;">${makale.title}</h3>
+                        <p style="color: #555; font-size: 14px; margin: 4px 0;"><strong>Yazar:</strong> ${makale.author}</p>
+                        <p style="color: #777; font-size: 13px;"><strong>Tarih: <strong>Yıl:</strong> ${makale.year}</p>
+                            <p style="font-size: 14px; margin-top: 10px; color: #444;">
+                          ${makale.summary}
+                        </p>
+                        <a href="${makale.doi}" target="_blank" style="margin-top: auto; color: #9c4dcc; text-decoration: none; font-weight: bold;">Devamını oku →</a>
+                    </div>
+                `;
+                container.appendChild(card);
+            });
+        })
+        .catch(err => {
+            console.error("Makale verisi alınamadı:", err);
+        });
+</script>
+
