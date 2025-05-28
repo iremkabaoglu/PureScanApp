@@ -34,9 +34,9 @@ namespace PureScanApp.Services
             }
 
             var inputs = new List<NamedOnnxValue>
-    {
-        NamedOnnxValue.CreateFromTensor("input", input)
-    };
+            {
+                NamedOnnxValue.CreateFromTensor("input", input)
+            };
 
             using var results = _session.Run(inputs);
             var output = results.First().AsEnumerable<float>().ToArray();
@@ -44,17 +44,17 @@ namespace PureScanApp.Services
 
             var classNames = new[]
             {
-        "ISANA Med",
-        "Doa Nemlendirici Krem",
-        "ArkoNem Nemlendirici Bakım Kremi",
-        "Bepanthol",
-        "Cream Co",
-        "Meruderm Kil Maskesi",
-        "ArkoNem Krem",
-        "Mia",
-        "Urban Saç Bakım Kremi",
-        "Meruderm Güneş Kremi"
-    };
+                "ISANA Med",
+                "Doa Nemlendirici Krem",
+                "ArkoNem Nemlendirici Bakım Kremi",
+                "Bepanthol",
+                "Cream Co",
+                "Meruderm Kil Maskesi",
+                "ArkoNem Krem",
+                "Mia",
+                "Urban Saç Bakım Kremi",
+                "Meruderm Güneş Kremi"
+            };
 
             return classNames[maxIndex];
         }

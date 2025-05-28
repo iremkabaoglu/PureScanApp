@@ -6,6 +6,7 @@
 <section style="padding: 60px; max-width: 1000px; margin: auto;">
     <h2 style="color: #5a2a83; text-align: center; margin-bottom: 40px;">Ürün İçerik Analizi</h2>
 
+    <!-- Dosya yükleme formu -->
     <form asp-action="UrunInceleme" method="post" enctype="multipart/form-data" style="text-align: center;">
         <input type="file" name="file" required
                style="padding: 12px; border: 1px solid #ccc; border-radius: 8px;" />
@@ -22,10 +23,61 @@
         </button>
     </form>
 
-    @if (ViewBag.Result != null)
+    @if (ViewBag.Result != null && ViewBag.IngredientsList != null)
     {
-        <div style="margin-top:20px; font-weight:bold; color:#5a2a83; text-align:center;">
-            <p>@ViewBag.Result</p>
+        <div style="display: flex; flex-wrap: wrap; gap: 40px; margin-top: 30px;">
+
+            <!-- Sol: Görsel -->
+            <div style="flex: 0 0 260px; text-align: center;">
+                <h4 style="color:#5a2a83;">Yüklenen Görsel:</h4>
+                <img src="@ViewBag.UploadedImagePath" alt="Ürün" style="width: 100%; max-width: 230px; border-radius: 16px;" />
+                <div class="score-high" style="margin-top: 12px; padding: 10px; border-radius: 12px; font-weight: bold; display: inline-block;">
+                    Risk Skoru: @ViewBag.Score
+                </div>
+            </div>
+
+            <!-- Sağ: İçerikler -->
+            <div style="flex: 1; min-width: 300px;">
+                <h4 style="color:#5a2a83;">İçerikler:</h4>
+
+                <div style="margin-bottom: 20px;">
+                    <button onclick="filterRisk('all')" class="filter-btn">Tümünü Göster</button>
+                    <button onclick="filterRisk('Yüksek')" class="filter-btn">❗ Yüksek Risk</button>
+                    <button onclick="filterRisk('Orta')" class="filter-btn">⚠️ Orta Risk</button>
+                    <button onclick="filterRisk('Düşük')" class="filter-btn">✅ Düşük Risk</button>
+                    <button onclick="filterRisk('Yok')" class="filter-btn">✅ Risksiz</button>
+                </div>
+
+                <div class="ingredients-grid">
+                    @foreach (var item in (List<(string Content, string Risk)>)ViewBag.IngredientsList)
+                    {
+                        string cssClass = "risk-low";
+                        string icon = "✅";
+
+                        if (item.Risk == "Yüksek") { cssClass = "risk-high"; icon = "❗"; }
+                        else if (item.Risk == "Orta") { cssClass = "risk-medium"; icon = "⚠️"; }
+                        else if (item.Risk == "Düşük") { cssClass = "risk-low"; icon = "✅"; }
+                        else if (item.Risk == "Yok") { cssClass = "risk-none"; icon = "✅"; }
+
+                        <div class="@cssClass risk-box ingredient-card" data-risk="@item.Risk">
+                            <strong>@icon @item.Content</strong><br />
+                            <span style="font-size: 14px;">Risk: @item.Risk</span>
+                        </div>
+                    }
+                </div>
+            </div>
         </div>
     }
 </section>
+
+
+<!-- Filtreleme Script -->
+<script>
+    function filterRisk(riskLevel) {
+        const cards = document.querySelectorAll(".ingredient-card");
+        cards.forEach(card => {
+            const risk = card.getAttribute("data-risk");
+            card.style.display = (riskLevel === "all" || risk === riskLevel) ? "block" : "none";
+        });
+    }
+</script>
