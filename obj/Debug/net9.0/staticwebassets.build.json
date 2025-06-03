@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YjJaCDYKXLLw5han5bRxAHt1vHc4x6JktZRhDiPcOUo=",
+  "Hash": "FoYpa42PxghP4S1VcSugAttNl8vqzdflwlCMiuHxBYw=",
   "Source": "PureScanApp",
   "BasePath": "_content/PureScanApp",
   "Mode": "Default",
@@ -122,12 +122,12 @@
       "OriginalItemSpec": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\PureScanApp\\obj\\Debug\\net9.0\\compressed\\0rgeyvl25j-st1mstusy7.gz",
+      "Identity": "C:\\Users\\USER\\source\\repos\\PureScanApp\\obj\\Debug\\net9.0\\compressed\\0rgeyvl25j-8g8aq4q8nh.gz",
       "SourceId": "PureScanApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\USER\\source\\repos\\PureScanApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PureScanApp",
-      "RelativePath": "css/site#[.{fingerprint=st1mstusy7}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=8g8aq4q8nh}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -136,8 +136,8 @@
       "RelatedAsset": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "c7bu3vga8r",
-      "Integrity": "yCxAwahH3j6f0+tx7AWjlQ9vUNzowvWpo1ZZuOOzOxU=",
+      "Fingerprint": "5ilq3p3uf8",
+      "Integrity": "XYZhZh7ewWkcmx4Iiuy8WcZe7nznd58oFbF98wDrpWo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "st1mstusy7",
-      "Integrity": "wMIi5zYGmwAL/rjUrsHwGd7zD8RmFFAwFeOxXdz8/EI=",
+      "Fingerprint": "8g8aq4q8nh",
+      "Integrity": "SNOQ2Mz7OJBayvDViAGvXl79Qd3Wak7SVpI5uZRI/ng=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1443,6 +1443,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\image\\background.png",
+      "SourceId": "PureScanApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\",
+      "BasePath": "_content/PureScanApp",
+      "RelativePath": "image/background#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "upxa4n3pap",
+      "Integrity": "MnmiyaV7s71kJyV18H7FAxNd2QNeiZg5+7fioO9DENE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\image\\illustration.png",
+      "SourceId": "PureScanApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\",
+      "BasePath": "_content/PureScanApp",
+      "RelativePath": "image/illustration#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "09wtbim6s1",
+      "Integrity": "fGSgVjrlRUWEgQXtqPEPlJtJURkObr76s1fee/2J2XQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\illustration.png"
     },
     {
       "Identity": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\image\\logoo.png",
@@ -1550,6 +1592,27 @@
       "OriginalItemSpec": "wwwroot\\images\\0.jpg"
     },
     {
+      "Identity": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\1.jpeg",
+      "SourceId": "PureScanApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\",
+      "BasePath": "_content/PureScanApp",
+      "RelativePath": "images/1#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p625auwcda",
+      "Integrity": "r+Ma7yhwGGWsfW1hVvVl2HbZnugcfrKZJ2EKV4RLjlk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1.jpeg"
+    },
+    {
       "Identity": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\1.jpg",
       "SourceId": "PureScanApp",
       "SourceType": "Discovered",
@@ -1592,6 +1655,27 @@
       "OriginalItemSpec": "wwwroot\\images\\102.jpg"
     },
     {
+      "Identity": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\12.jpg",
+      "SourceId": "PureScanApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\",
+      "BasePath": "_content/PureScanApp",
+      "RelativePath": "images/12#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0xqs77wdwk",
+      "Integrity": "vGVS6m2zXpPc44vdJufuH+KUSM+sYwhgOnnAUFfPai0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\12.jpg"
+    },
+    {
       "Identity": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\13.jpg",
       "SourceId": "PureScanApp",
       "SourceType": "Discovered",
@@ -1627,8 +1711,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dmbg9x506t",
-      "Integrity": "K0RprRHV30D/Nb2o+0G4uCrscCbswMw0AgBIoMKXbPk=",
+      "Fingerprint": "cwm6i2k4xx",
+      "Integrity": "bJNSgxLTLYsuFHKiRbIUakHrb8o1C+zkXBGE/vXboIs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\14.jpg"
@@ -1676,6 +1760,48 @@
       "OriginalItemSpec": "wwwroot\\images\\163.jpg"
     },
     {
+      "Identity": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\2.jpg",
+      "SourceId": "PureScanApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\",
+      "BasePath": "_content/PureScanApp",
+      "RelativePath": "images/2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c7xwajgl4a",
+      "Integrity": "6NnVQpsIX2ed7Vk+zh23iJtWdyeU09TMO3lphuyV2Y0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\3.jpeg",
+      "SourceId": "PureScanApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\",
+      "BasePath": "_content/PureScanApp",
+      "RelativePath": "images/3#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m29oc8a8mw",
+      "Integrity": "EnCX1IUbhnKzfY2Un3R4nogr1lfOTIaRmTAgcEp0wkA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\3.jpeg"
+    },
+    {
       "Identity": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\36.jpg",
       "SourceId": "PureScanApp",
       "SourceType": "Discovered",
@@ -1716,6 +1842,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Ekran Resmi 2025-05-12 21.26.30.png"
+    },
+    {
+      "Identity": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\Ekran Resmi 2025-05-12 21.26.53.png",
+      "SourceId": "PureScanApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\",
+      "BasePath": "_content/PureScanApp",
+      "RelativePath": "images/Ekran Resmi 2025-05-12 21.26.53#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ro51pvdf6v",
+      "Integrity": "9QeZIpFqpWOa1IfJbzyJ2nRe2Zim0ontBVeQ8VgtIMA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Ekran Resmi 2025-05-12 21.26.53.png"
     },
     {
       "Identity": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\ı.png",
@@ -3043,13 +3190,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\obj\\Debug\\net9.0\\compressed\\0rgeyvl25j-st1mstusy7.gz",
+      "Route": "css/site.8g8aq4q8nh.css",
+      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\obj\\Debug\\net9.0\\compressed\\0rgeyvl25j-8g8aq4q8nh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000692041522"
+          "Quality": "0.000608642727"
         }
       ],
       "ResponseHeaders": [
@@ -3059,19 +3206,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1444"
+          "Value": "1642"
         },
         {
           "Name": "ETag",
-          "Value": "\"yCxAwahH3j6f0+tx7AWjlQ9vUNzowvWpo1ZZuOOzOxU=\""
+          "Value": "\"XYZhZh7ewWkcmx4Iiuy8WcZe7nznd58oFbF98wDrpWo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 17:44:33 GMT"
+          "Value": "Tue, 03 Jun 2025 20:25:22 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -3087,18 +3234,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"wMIi5zYGmwAL/rjUrsHwGd7zD8RmFFAwFeOxXdz8/EI=\""
+          "Value": "W/\"SNOQ2Mz7OJBayvDViAGvXl79Qd3Wak7SVpI5uZRI/ng=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "8g8aq4q8nh"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-wMIi5zYGmwAL/rjUrsHwGd7zD8RmFFAwFeOxXdz8/EI="
+          "Value": "sha256-SNOQ2Mz7OJBayvDViAGvXl79Qd3Wak7SVpI5uZRI/ng="
         }
       ]
     },
     {
-      "Route": "css/site.css",
+      "Route": "css/site.8g8aq4q8nh.css",
       "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3108,7 +3263,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5655"
+          "Value": "5882"
         },
         {
           "Name": "Content-Type",
@@ -3116,121 +3271,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wMIi5zYGmwAL/rjUrsHwGd7zD8RmFFAwFeOxXdz8/EI=\""
+          "Value": "\"SNOQ2Mz7OJBayvDViAGvXl79Qd3Wak7SVpI5uZRI/ng=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 17:44:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wMIi5zYGmwAL/rjUrsHwGd7zD8RmFFAwFeOxXdz8/EI="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\obj\\Debug\\net9.0\\compressed\\0rgeyvl25j-st1mstusy7.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1444"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yCxAwahH3j6f0+tx7AWjlQ9vUNzowvWpo1ZZuOOzOxU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 17:44:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-yCxAwahH3j6f0+tx7AWjlQ9vUNzowvWpo1ZZuOOzOxU="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.st1mstusy7.css",
-      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\obj\\Debug\\net9.0\\compressed\\0rgeyvl25j-st1mstusy7.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000692041522"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1444"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yCxAwahH3j6f0+tx7AWjlQ9vUNzowvWpo1ZZuOOzOxU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 17:44:33 GMT"
+          "Value": "Tue, 03 Jun 2025 20:25:22 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"wMIi5zYGmwAL/rjUrsHwGd7zD8RmFFAwFeOxXdz8/EI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "st1mstusy7"
+          "Value": "8g8aq4q8nh"
         },
         {
           "Name": "label",
@@ -3238,13 +3293,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wMIi5zYGmwAL/rjUrsHwGd7zD8RmFFAwFeOxXdz8/EI="
+          "Value": "sha256-SNOQ2Mz7OJBayvDViAGvXl79Qd3Wak7SVpI5uZRI/ng="
         }
       ]
     },
     {
-      "Route": "css/site.st1mstusy7.css",
-      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\css\\site.css",
+      "Route": "css/site.8g8aq4q8nh.css.gz",
+      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\obj\\Debug\\net9.0\\compressed\\0rgeyvl25j-8g8aq4q8nh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3253,7 +3308,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5655"
+          "Value": "1642"
         },
         {
           "Name": "Content-Type",
@@ -3261,56 +3316,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wMIi5zYGmwAL/rjUrsHwGd7zD8RmFFAwFeOxXdz8/EI=\""
+          "Value": "\"XYZhZh7ewWkcmx4Iiuy8WcZe7nznd58oFbF98wDrpWo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 17:44:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "st1mstusy7"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wMIi5zYGmwAL/rjUrsHwGd7zD8RmFFAwFeOxXdz8/EI="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.st1mstusy7.css.gz",
-      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\obj\\Debug\\net9.0\\compressed\\0rgeyvl25j-st1mstusy7.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1444"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yCxAwahH3j6f0+tx7AWjlQ9vUNzowvWpo1ZZuOOzOxU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 17:44:33 GMT"
+          "Value": "Tue, 03 Jun 2025 20:25:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3328,7 +3338,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "st1mstusy7"
+          "Value": "8g8aq4q8nh"
         },
         {
           "Name": "label",
@@ -3336,7 +3346,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-yCxAwahH3j6f0+tx7AWjlQ9vUNzowvWpo1ZZuOOzOxU="
+          "Value": "sha256-XYZhZh7ewWkcmx4Iiuy8WcZe7nznd58oFbF98wDrpWo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\obj\\Debug\\net9.0\\compressed\\0rgeyvl25j-8g8aq4q8nh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000608642727"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1642"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XYZhZh7ewWkcmx4Iiuy8WcZe7nznd58oFbF98wDrpWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 20:25:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SNOQ2Mz7OJBayvDViAGvXl79Qd3Wak7SVpI5uZRI/ng=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SNOQ2Mz7OJBayvDViAGvXl79Qd3Wak7SVpI5uZRI/ng="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5882"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SNOQ2Mz7OJBayvDViAGvXl79Qd3Wak7SVpI5uZRI/ng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 20:25:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SNOQ2Mz7OJBayvDViAGvXl79Qd3Wak7SVpI5uZRI/ng="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\obj\\Debug\\net9.0\\compressed\\0rgeyvl25j-8g8aq4q8nh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XYZhZh7ewWkcmx4Iiuy8WcZe7nznd58oFbF98wDrpWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 20:25:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XYZhZh7ewWkcmx4Iiuy8WcZe7nznd58oFbF98wDrpWo="
         }
       ]
     },
@@ -3635,6 +3782,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-jcY0RXFOlcp4VNTCcYQtWVZZBlr+ZY+AOv6/0S5dnF8="
+        }
+      ]
+    },
+    {
+      "Route": "image/background.png",
+      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\image\\background.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1984065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MnmiyaV7s71kJyV18H7FAxNd2QNeiZg5+7fioO9DENE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 17:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MnmiyaV7s71kJyV18H7FAxNd2QNeiZg5+7fioO9DENE="
+        }
+      ]
+    },
+    {
+      "Route": "image/background.upxa4n3pap.png",
+      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\image\\background.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1984065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MnmiyaV7s71kJyV18H7FAxNd2QNeiZg5+7fioO9DENE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 17:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "upxa4n3pap"
+        },
+        {
+          "Name": "label",
+          "Value": "image/background.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MnmiyaV7s71kJyV18H7FAxNd2QNeiZg5+7fioO9DENE="
+        }
+      ]
+    },
+    {
+      "Route": "image/illustration.09wtbim6s1.png",
+      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\image\\illustration.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2067329"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fGSgVjrlRUWEgQXtqPEPlJtJURkObr76s1fee/2J2XQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 18:08:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "09wtbim6s1"
+        },
+        {
+          "Name": "label",
+          "Value": "image/illustration.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fGSgVjrlRUWEgQXtqPEPlJtJURkObr76s1fee/2J2XQ="
+        }
+      ]
+    },
+    {
+      "Route": "image/illustration.png",
+      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\image\\illustration.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2067329"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fGSgVjrlRUWEgQXtqPEPlJtJURkObr76s1fee/2J2XQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 18:08:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fGSgVjrlRUWEgQXtqPEPlJtJURkObr76s1fee/2J2XQ="
         }
       ]
     },
@@ -4049,6 +4360,43 @@
       ]
     },
     {
+      "Route": "images/1.jpeg",
+      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r+Ma7yhwGGWsfW1hVvVl2HbZnugcfrKZJ2EKV4RLjlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 17:54:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r+Ma7yhwGGWsfW1hVvVl2HbZnugcfrKZJ2EKV4RLjlk="
+        }
+      ]
+    },
+    {
       "Route": "images/1.jpg",
       "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\1.jpg",
       "Selectors": [],
@@ -4127,6 +4475,51 @@
         {
           "Name": "integrity",
           "Value": "sha256-74kkps2d3CEDqxdYLAhRFo9UifoLK60JF/Sf0hnFBKQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/1.p625auwcda.jpeg",
+      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r+Ma7yhwGGWsfW1hVvVl2HbZnugcfrKZJ2EKV4RLjlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 17:54:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p625auwcda"
+        },
+        {
+          "Name": "label",
+          "Value": "images/1.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r+Ma7yhwGGWsfW1hVvVl2HbZnugcfrKZJ2EKV4RLjlk="
         }
       ]
     },
@@ -4213,6 +4606,88 @@
       ]
     },
     {
+      "Route": "images/12.0xqs77wdwk.jpg",
+      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vGVS6m2zXpPc44vdJufuH+KUSM+sYwhgOnnAUFfPai0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 17:53:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0xqs77wdwk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/12.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vGVS6m2zXpPc44vdJufuH+KUSM+sYwhgOnnAUFfPai0="
+        }
+      ]
+    },
+    {
+      "Route": "images/12.jpg",
+      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vGVS6m2zXpPc44vdJufuH+KUSM+sYwhgOnnAUFfPai0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 17:53:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vGVS6m2zXpPc44vdJufuH+KUSM+sYwhgOnnAUFfPai0="
+        }
+      ]
+    },
+    {
       "Route": "images/13.jpg",
       "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\13.jpg",
       "Selectors": [],
@@ -4295,7 +4770,7 @@
       ]
     },
     {
-      "Route": "images/14.dmbg9x506t.jpg",
+      "Route": "images/14.cwm6i2k4xx.jpg",
       "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\14.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4305,7 +4780,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8946"
+          "Value": "7072"
         },
         {
           "Name": "Content-Type",
@@ -4313,11 +4788,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"K0RprRHV30D/Nb2o+0G4uCrscCbswMw0AgBIoMKXbPk=\""
+          "Value": "\"bJNSgxLTLYsuFHKiRbIUakHrb8o1C+zkXBGE/vXboIs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 17:38:13 GMT"
+          "Value": "Wed, 28 May 2025 17:53:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4327,7 +4802,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dmbg9x506t"
+          "Value": "cwm6i2k4xx"
         },
         {
           "Name": "label",
@@ -4335,7 +4810,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-K0RprRHV30D/Nb2o+0G4uCrscCbswMw0AgBIoMKXbPk="
+          "Value": "sha256-bJNSgxLTLYsuFHKiRbIUakHrb8o1C+zkXBGE/vXboIs="
         }
       ]
     },
@@ -4350,7 +4825,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8946"
+          "Value": "7072"
         },
         {
           "Name": "Content-Type",
@@ -4358,11 +4833,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"K0RprRHV30D/Nb2o+0G4uCrscCbswMw0AgBIoMKXbPk=\""
+          "Value": "\"bJNSgxLTLYsuFHKiRbIUakHrb8o1C+zkXBGE/vXboIs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 17:38:13 GMT"
+          "Value": "Wed, 28 May 2025 17:53:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4372,7 +4847,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-K0RprRHV30D/Nb2o+0G4uCrscCbswMw0AgBIoMKXbPk="
+          "Value": "sha256-bJNSgxLTLYsuFHKiRbIUakHrb8o1C+zkXBGE/vXboIs="
         }
       ]
     },
@@ -4541,6 +5016,170 @@
       ]
     },
     {
+      "Route": "images/2.c7xwajgl4a.jpg",
+      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6NnVQpsIX2ed7Vk+zh23iJtWdyeU09TMO3lphuyV2Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 17:54:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c7xwajgl4a"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6NnVQpsIX2ed7Vk+zh23iJtWdyeU09TMO3lphuyV2Y0="
+        }
+      ]
+    },
+    {
+      "Route": "images/2.jpg",
+      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6NnVQpsIX2ed7Vk+zh23iJtWdyeU09TMO3lphuyV2Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 17:54:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6NnVQpsIX2ed7Vk+zh23iJtWdyeU09TMO3lphuyV2Y0="
+        }
+      ]
+    },
+    {
+      "Route": "images/3.jpeg",
+      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\3.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19697"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EnCX1IUbhnKzfY2Un3R4nogr1lfOTIaRmTAgcEp0wkA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 17:53:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EnCX1IUbhnKzfY2Un3R4nogr1lfOTIaRmTAgcEp0wkA="
+        }
+      ]
+    },
+    {
+      "Route": "images/3.m29oc8a8mw.jpeg",
+      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\3.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19697"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EnCX1IUbhnKzfY2Un3R4nogr1lfOTIaRmTAgcEp0wkA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 17:53:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m29oc8a8mw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/3.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EnCX1IUbhnKzfY2Un3R4nogr1lfOTIaRmTAgcEp0wkA="
+        }
+      ]
+    },
+    {
       "Route": "images/36.fr2v92izfa.jpg",
       "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\36.jpg",
       "Selectors": [],
@@ -4705,6 +5344,88 @@
       ]
     },
     {
+      "Route": "images/Ekran Resmi 2025-05-12 21.26.53.png",
+      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\Ekran Resmi 2025-05-12 21.26.53.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1132328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9QeZIpFqpWOa1IfJbzyJ2nRe2Zim0ontBVeQ8VgtIMA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 17:54:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9QeZIpFqpWOa1IfJbzyJ2nRe2Zim0ontBVeQ8VgtIMA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ekran Resmi 2025-05-12 21.26.53.ro51pvdf6v.png",
+      "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\Ekran Resmi 2025-05-12 21.26.53.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1132328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9QeZIpFqpWOa1IfJbzyJ2nRe2Zim0ontBVeQ8VgtIMA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 17:54:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ro51pvdf6v"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Ekran Resmi 2025-05-12 21.26.53.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9QeZIpFqpWOa1IfJbzyJ2nRe2Zim0ontBVeQ8VgtIMA="
+        }
+      ]
+    },
+    {
       "Route": "images/ı.32iewvy8ni.png",
       "AssetFile": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\ı.png",
       "Selectors": [],
@@ -4727,7 +5448,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 17:49:48 GMT"
+          "Value": "Tue, 03 Jun 2025 17:07:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4772,7 +5493,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 17:49:48 GMT"
+          "Value": "Tue, 03 Jun 2025 17:07:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4809,7 +5530,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 23 May 2025 14:39:23 GMT"
+          "Value": "Tue, 03 Jun 2025 20:25:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4854,7 +5575,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 23 May 2025 14:39:23 GMT"
+          "Value": "Tue, 03 Jun 2025 20:25:03 GMT"
         },
         {
           "Name": "Cache-Control",

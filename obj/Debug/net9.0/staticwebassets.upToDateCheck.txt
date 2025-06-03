@@ -62,19 +62,26 @@ C:\Users\USER\source\repos\PureScanApp\wwwroot\lib\bootstrap\dist\js\bootstrap.m
 C:\Users\USER\source\repos\PureScanApp\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\image\background.png
+wwwroot\image\illustration.png
 wwwroot\image\logoo.png
 wwwroot\image\magnifier.png
 wwwroot\image\sepet.jpeg
 wwwroot\image\tatlı.png
 wwwroot\images\0.jpg
+wwwroot\images\1.jpeg
 wwwroot\images\1.jpg
 wwwroot\images\102.jpg
+wwwroot\images\12.jpg
 wwwroot\images\13.jpg
 wwwroot\images\14.jpg
 wwwroot\images\140.jpg
 wwwroot\images\163.jpg
+wwwroot\images\2.jpg
+wwwroot\images\3.jpeg
 wwwroot\images\36.jpg
 wwwroot\images\Ekran Resmi 2025-05-12 21.26.30.png
+wwwroot\images\Ekran Resmi 2025-05-12 21.26.53.png
 wwwroot\images\ı.png
 wwwroot\images\images (1).jpeg
 wwwroot\js\site.js

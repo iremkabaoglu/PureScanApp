@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\PureScanApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADF28EDF-3FD1-4A35-92AB-6833A4527CAF}|PureScanApp.csproj|c:\\users\\user\\source\\repos\\purescanapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADF28EDF-3FD1-4A35-92AB-6833A4527CAF}|PureScanApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADF28EDF-3FD1-4A35-92AB-6833A4527CAF}|PureScanApp.csproj|c:\\users\\user\\source\\repos\\purescanapp\\services\\predictionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADF28EDF-3FD1-4A35-92AB-6833A4527CAF}|PureScanApp.csproj|solutionrelative:services\\predictionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADF28EDF-3FD1-4A35-92AB-6833A4527CAF}|PureScanApp.csproj|c:\\users\\user\\source\\repos\\purescanapp\\services\\productinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADF28EDF-3FD1-4A35-92AB-6833A4527CAF}|PureScanApp.csproj|solutionrelative:services\\productinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADF28EDF-3FD1-4A35-92AB-6833A4527CAF}|PureScanApp.csproj|c:\\users\\user\\source\\repos\\purescanapp\\views\\home\\uruninceleme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ADF28EDF-3FD1-4A35-92AB-6833A4527CAF}|PureScanApp.csproj|solutionrelative:views\\home\\uruninceleme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ADF28EDF-3FD1-4A35-92AB-6833A4527CAF}|PureScanApp.csproj|c:\\users\\user\\source\\repos\\purescanapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADF28EDF-3FD1-4A35-92AB-6833A4527CAF}|PureScanApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADF28EDF-3FD1-4A35-92AB-6833A4527CAF}|PureScanApp.csproj|c:\\users\\user\\source\\repos\\purescanapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{ADF28EDF-3FD1-4A35-92AB-6833A4527CAF}|PureScanApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF28EDF-3FD1-4A35-92AB-6833A4527CAF}|PureScanApp.csproj|c:\\users\\user\\source\\repos\\purescanapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADF28EDF-3FD1-4A35-92AB-6833A4527CAF}|PureScanApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF28EDF-3FD1-4A35-92AB-6833A4527CAF}|PureScanApp.csproj|c:\\users\\user\\source\\repos\\purescanapp\\views\\home\\uruninceleme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADF28EDF-3FD1-4A35-92AB-6833A4527CAF}|PureScanApp.csproj|solutionrelative:views\\home\\uruninceleme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,15 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PureScanApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\PureScanApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T17:55:48.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAIBAAAAAAAAAAAiwBgBAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAACcBAAAAAAAAAAAqwCkBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-05-28T17:00:50.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PureScanApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\PureScanApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswCoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T17:58:05.333Z",
               "EditorCaption": ""
             },
             {
@@ -57,48 +79,9 @@
               "RelativeDocumentMoniker": "Views\\Home\\UrunInceleme.cshtml",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\PureScanApp\\Views\\Home\\UrunInceleme.cshtml",
               "RelativeToolTip": "Views\\Home\\UrunInceleme.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-28T15:35:26.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PureScanApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\PureScanApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAowFoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T15:26:55.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductInfoService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PureScanApp\\Services\\ProductInfoService.cs",
-              "RelativeDocumentMoniker": "Services\\ProductInfoService.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\PureScanApp\\Services\\ProductInfoService.cs",
-              "RelativeToolTip": "Services\\ProductInfoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T15:23:12.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PredictionService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PureScanApp\\Services\\PredictionService.cs",
-              "RelativeDocumentMoniker": "Services\\PredictionService.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\PureScanApp\\Services\\PredictionService.cs",
-              "RelativeToolTip": "Services\\PredictionService.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAswD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T14:16:07.246Z",
               "EditorCaption": ""
             }
           ]

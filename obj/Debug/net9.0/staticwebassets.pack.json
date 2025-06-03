@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\image\\background.png",
+      "PackagePath": "staticwebassets\\image\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\image\\illustration.png",
+      "PackagePath": "staticwebassets\\image\\illustration.png"
+    },
+    {
       "Id": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\image\\logoo.png",
       "PackagePath": "staticwebassets\\image\\logoo.png"
     },
@@ -33,12 +41,20 @@
       "PackagePath": "staticwebassets\\images\\0.jpg"
     },
     {
+      "Id": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\1.jpeg",
+      "PackagePath": "staticwebassets\\images\\1.jpeg"
+    },
+    {
       "Id": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\1.jpg",
       "PackagePath": "staticwebassets\\images\\1.jpg"
     },
     {
       "Id": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\102.jpg",
       "PackagePath": "staticwebassets\\images\\102.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\12.jpg"
     },
     {
       "Id": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\13.jpg",
@@ -57,12 +73,24 @@
       "PackagePath": "staticwebassets\\images\\163.jpg"
     },
     {
+      "Id": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\3.jpeg",
+      "PackagePath": "staticwebassets\\images\\3.jpeg"
+    },
+    {
       "Id": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\36.jpg",
       "PackagePath": "staticwebassets\\images\\36.jpg"
     },
     {
       "Id": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\Ekran Resmi 2025-05-12 21.26.30.png",
       "PackagePath": "staticwebassets\\images\\Ekran Resmi 2025-05-12 21.26.30.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\Ekran Resmi 2025-05-12 21.26.53.png",
+      "PackagePath": "staticwebassets\\images\\Ekran Resmi 2025-05-12 21.26.53.png"
     },
     {
       "Id": "C:\\Users\\USER\\source\\repos\\PureScanApp\\wwwroot\\images\\images (1).jpeg",

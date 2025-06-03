@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PureScanApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffcd6e078c42e49e70ec79dd134977270b8eca74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97d73eb22415cbb96991f8a1a3af2ad40b8891a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PureScanApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PureScanApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
